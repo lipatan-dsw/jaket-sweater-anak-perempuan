@@ -1,5 +1,5 @@
 title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Dress Anak Perempuan - CDG 108 Murah,dress-anak-perempuan-cdg-108,"
+Jual Jaket / Sweater Anak Perempuan - CSE 152 Murah,jaket-sweater-anak-perempuan-cse-152,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -46,7 +46,7 @@ Jual Dress Anak Perempuan - CDG 108 Murah,dress-anak-perempuan-cdg-108,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDG 108 dengan bahan Satin ini dijamin awet.<br/>Kode : CDG 108<br/>Warna : BIRU<br/>Bahan : Satin<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CSE 152 dengan bahan Canvas ini dijamin awet.<br/>Kode : CSE 152<br/>Warna : CREAM<br/>Bahan : Canvas<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +61,8 @@ Jual Dress Anak Perempuan - CDG 108 Murah,dress-anak-perempuan-cdg-108,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Satin, Ukuran 4~6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/308-cdg-108.jpg,Dress Anak Perempuan - CDG 108,Rp 104.900,CDG 108,Baru
-Jual Dress Anak Perempuan - CIW 002 Murah,dress-anak-perempuan-ciw-002,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Canvas, Ukuran 4~6~8~10 Tahun, Warna CREAM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/351-cse-152.jpg,Jaket / Sweater Anak Perempuan - CSE 152,Rp 140.900,CSE 152,Baru
+Jual Jaket / Sweater Anak Perempuan - CNU 138 Murah,jaket-sweater-anak-perempuan-cnu-138,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -109,7 +109,7 @@ Jual Dress Anak Perempuan - CIW 002 Murah,dress-anak-perempuan-ciw-002,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CIW 002 dengan bahan Cotton ini dijamin awet.<br/>Kode : CIW 002<br/>Warna : HITAM<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CNU 138 dengan bahan Canvas ini dijamin awet.<br/>Kode : CNU 138<br/>Warna : MARUN<br/>Bahan : Canvas<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,8 +124,8 @@ Jual Dress Anak Perempuan - CIW 002 Murah,dress-anak-perempuan-ciw-002,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/309-ciw-002.jpg,Dress Anak Perempuan - CIW 002,Rp 112.900,CIW 002,Baru
-Jual Dress Anak Perempuan - CMS 002 Murah,dress-anak-perempuan-cms-002,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Canvas, Ukuran 4~6~8~10 Tahun, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/352-cnu-138.jpg,Jaket / Sweater Anak Perempuan - CNU 138,Rp 149.900,CNU 138,Baru
+Jual Jaket / Sweater Anak Perempuan - CDG 127 Murah,jaket-sweater-anak-perempuan-cdg-127,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -172,7 +172,7 @@ Jual Dress Anak Perempuan - CMS 002 Murah,dress-anak-perempuan-cms-002,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CMS 002 dengan bahan Cotton ini dijamin awet.<br/>Kode : CMS 002<br/>Warna : MERAH<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CDG 127 dengan bahan Parasit ini dijamin awet.<br/>Kode : CDG 127<br/>Warna : PINK<br/>Bahan : Parasit<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -187,8 +187,8 @@ Jual Dress Anak Perempuan - CMS 002 Murah,dress-anak-perempuan-cms-002,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/310-cms-002.jpg,Dress Anak Perempuan - CMS 002,Rp 110.900,CMS 002,Baru
-Jual Dress Anak Perempuan - CSH 022 Murah,dress-anak-perempuan-csh-022,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Parasit, Ukuran 4~6~8~10 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/353-cdg-127.jpg,Jaket / Sweater Anak Perempuan - CDG 127,Rp 133.900,CDG 127,Baru
+Jual Jaket / Sweater Anak Perempuan - CSE 156 Murah,jaket-sweater-anak-perempuan-cse-156,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -235,7 +235,7 @@ Jual Dress Anak Perempuan - CSH 022 Murah,dress-anak-perempuan-csh-022,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CSH 022 dengan bahan Cotton ini dijamin awet.<br/>Kode : CSH 022<br/>Warna : BIRU NAVY<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CSE 156 dengan bahan Canvas ini dijamin awet.<br/>Kode : CSE 156<br/>Warna : MARUN<br/>Bahan : Canvas<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -250,8 +250,8 @@ Jual Dress Anak Perempuan - CSH 022 Murah,dress-anak-perempuan-csh-022,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna BIRU NAVY",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/311-csh-022.jpg,Dress Anak Perempuan - CSH 022,Rp 120.900,CSH 022,Baru
-Jual Dress Anak Perempuan - CMS 001 Murah,dress-anak-perempuan-cms-001,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Canvas, Ukuran 4~6~8~10 Tahun, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/354-cse-156.jpg,Jaket / Sweater Anak Perempuan - CSE 156,Rp 140.900,CSE 156,Baru
+Jual Jaket / Sweater Anak Perempuan - CDI 001 Murah,jaket-sweater-anak-perempuan-cdi-001,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -298,7 +298,7 @@ Jual Dress Anak Perempuan - CMS 001 Murah,dress-anak-perempuan-cms-001,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CMS 001 dengan bahan Cotton ini dijamin awet.<br/>Kode : CMS 001<br/>Warna : PUTIH PINK<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CDI 001 dengan bahan Lotto ini dijamin awet.<br/>Kode : CDI 001<br/>Warna : MARUN<br/>Bahan : Lotto<br/>Ukuran :  6~8~10~12 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -313,8 +313,8 @@ Jual Dress Anak Perempuan - CMS 001 Murah,dress-anak-perempuan-cms-001,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna PUTIH PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/312-cms-001.jpg,Dress Anak Perempuan - CMS 001,Rp 112.900,CMS 001,Baru
-Jual Dress Anak Perempuan - CDG 113 Murah,dress-anak-perempuan-cdg-113,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Lotto, Ukuran  6~8~10~12 Tahun, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/355-cdi-001.jpg,Jaket / Sweater Anak Perempuan - CDI 001,Rp 134.900,CDI 001,Baru
+Jual Jaket / Sweater Anak Perempuan - CDI 118 Murah,jaket-sweater-anak-perempuan-cdi-118,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -361,7 +361,7 @@ Jual Dress Anak Perempuan - CDG 113 Murah,dress-anak-perempuan-cdg-113,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDG 113 dengan bahan Chiffon ini dijamin awet.<br/>Kode : CDG 113<br/>Warna : PINK<br/>Bahan : Chiffon<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CDI 118 dengan bahan Oscar ini dijamin awet.<br/>Kode : CDI 118<br/>Warna : COKLAT<br/>Bahan : Oscar<br/>Ukuran :  6~8~10~12 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -376,8 +376,8 @@ Jual Dress Anak Perempuan - CDG 113 Murah,dress-anak-perempuan-cdg-113,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Chiffon, Ukuran 4~6~8~10 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/313-cdg-113.jpg,Dress Anak Perempuan - CDG 113,Rp 116.900,CDG 113,Baru
-Jual Dress Anak Perempuan - CIW 003 Murah,dress-anak-perempuan-ciw-003,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Oscar, Ukuran  6~8~10~12 Tahun, Warna COKLAT",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/356-cdi-118.jpg,Jaket / Sweater Anak Perempuan - CDI 118,Rp 141.900,CDI 118,Baru
+Jual Jaket / Sweater Anak Perempuan - CCR 174 Murah,jaket-sweater-anak-perempuan-ccr-174,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -424,7 +424,7 @@ Jual Dress Anak Perempuan - CIW 003 Murah,dress-anak-perempuan-ciw-003,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CIW 003 dengan bahan Jersey ini dijamin awet.<br/>Kode : CIW 003<br/>Warna : KUNING<br/>Bahan : Jersey<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CCR 174 dengan bahan Micro ini dijamin awet.<br/>Kode : CCR 174<br/>Warna : BIRU NAVY<br/>Bahan : Micro<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -439,8 +439,8 @@ Jual Dress Anak Perempuan - CIW 003 Murah,dress-anak-perempuan-ciw-003,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Jersey, Ukuran 4~6~8~10 Tahun, Warna KUNING",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/314-ciw-003.jpg,Dress Anak Perempuan - CIW 003,Rp 119.900,CIW 003,Baru
-Jual Dress Anak Perempuan - CIW 001 Murah,dress-anak-perempuan-ciw-001,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Micro, Ukuran 4~6~8~10 Tahun, Warna BIRU NAVY",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/357-ccr-174.jpg,Jaket / Sweater Anak Perempuan - CCR 174,Rp 119.900,CCR 174,Baru
+Jual Jaket / Sweater Anak Perempuan - CNU 134 Murah,jaket-sweater-anak-perempuan-cnu-134,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -487,7 +487,7 @@ Jual Dress Anak Perempuan - CIW 001 Murah,dress-anak-perempuan-ciw-001,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CIW 001 dengan bahan Cotton ini dijamin awet.<br/>Kode : CIW 001<br/>Warna : HITAM KOMBINASI<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CNU 134 dengan bahan Denim ini dijamin awet.<br/>Kode : CNU 134<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -502,8 +502,8 @@ Jual Dress Anak Perempuan - CIW 001 Murah,dress-anak-perempuan-ciw-001,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna HITAM KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/315-ciw-001.jpg,Dress Anak Perempuan - CIW 001,Rp 112.900,CIW 001,Baru
-Jual Dress Anak Perempuan - CMS 128 Murah,dress-anak-perempuan-cms-128,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Denim, Ukuran  6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/358-cnu-134.jpg,Jaket / Sweater Anak Perempuan - CNU 134,Rp 152.900,CNU 134,Baru
+Jual Jaket / Sweater Anak Perempuan - CPL 909 Murah,jaket-sweater-anak-perempuan-cpl-909,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -550,7 +550,7 @@ Jual Dress Anak Perempuan - CMS 128 Murah,dress-anak-perempuan-cms-128,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CMS 128 dengan bahan Cotton ini dijamin awet.<br/>Kode : CMS 128<br/>Warna : HIJAU<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CPL 909 dengan bahan Terry ini dijamin awet.<br/>Kode : CPL 909<br/>Warna : ABU MISTY<br/>Bahan : Terry<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -565,8 +565,8 @@ Jual Dress Anak Perempuan - CMS 128 Murah,dress-anak-perempuan-cms-128,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna HIJAU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/316-cms-128.jpg,Dress Anak Perempuan - CMS 128,Rp 107.900,CMS 128,Baru
-Jual Dress Anak Perempuan - CDN 256 Murah,dress-anak-perempuan-cdn-256,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Terry, Ukuran 4~6~8~10 Tahun, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/359-cpl-909.jpg,Jaket / Sweater Anak Perempuan - CPL 909,Rp 140.900,CPL 909,Baru
+Jual Jaket / Sweater Anak Perempuan - CPL 920 Murah,jaket-sweater-anak-perempuan-cpl-920,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -613,7 +613,7 @@ Jual Dress Anak Perempuan - CDN 256 Murah,dress-anak-perempuan-cdn-256,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDN 256 dengan bahan Cotton ini dijamin awet.<br/>Kode : CDN 256<br/>Warna : PINK<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CPL 920 dengan bahan Terry ini dijamin awet.<br/>Kode : CPL 920<br/>Warna : HITAM<br/>Bahan : Terry<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -628,8 +628,8 @@ Jual Dress Anak Perempuan - CDN 256 Murah,dress-anak-perempuan-cdn-256,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/317-cdn-256.jpg,Dress Anak Perempuan - CDN 256,Rp 127.900,CDN 256,Baru
-Jual Dress Anak Perempuan - CSG 248 Murah,dress-anak-perempuan-csg-248,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Terry, Ukuran 4~6~8~10 Tahun, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/360-cpl-920.jpg,Jaket / Sweater Anak Perempuan - CPL 920,Rp 133.900,CPL 920,Baru
+Jual Jaket / Sweater Anak Perempuan - CPL 919 Murah,jaket-sweater-anak-perempuan-cpl-919,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -676,7 +676,7 @@ Jual Dress Anak Perempuan - CSG 248 Murah,dress-anak-perempuan-csg-248,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CSG 248 dengan bahan Cotton ini dijamin awet.<br/>Kode : CSG 248<br/>Warna : MERAH KOMBINASI<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CPL 919 dengan bahan Terry ini dijamin awet.<br/>Kode : CPL 919<br/>Warna : ABU MISTY<br/>Bahan : Terry<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -691,8 +691,8 @@ Jual Dress Anak Perempuan - CSG 248 Murah,dress-anak-perempuan-csg-248,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/318-csg-248.jpg,Dress Anak Perempuan - CSG 248,Rp 131.900,CSG 248,Baru
-Jual Dress Anak Perempuan - CSH 024 Murah,dress-anak-perempuan-csh-024,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Terry, Ukuran 4~6~8~10 Tahun, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/361-cpl-919.jpg,Jaket / Sweater Anak Perempuan - CPL 919,Rp 133.900,CPL 919,Baru
+Jual Jaket / Sweater Anak Perempuan - CSE 138 Murah,jaket-sweater-anak-perempuan-cse-138,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -739,7 +739,7 @@ Jual Dress Anak Perempuan - CSH 024 Murah,dress-anak-perempuan-csh-024,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CSH 024 dengan bahan Cotton ini dijamin awet.<br/>Kode : CSH 024<br/>Warna : HITAM<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CSE 138 dengan bahan Fleece ini dijamin awet.<br/>Kode : CSE 138<br/>Warna : BIRU NAVY<br/>Bahan : Fleece<br/>Ukuran :  6~8~10~12 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -754,8 +754,8 @@ Jual Dress Anak Perempuan - CSH 024 Murah,dress-anak-perempuan-csh-024,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/319-csh-024.jpg,Dress Anak Perempuan - CSH 024,Rp 115.900,CSH 024,Baru
-Jual Dress Anak Perempuan - CBV 017 Murah,dress-anak-perempuan-cbv-017,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Fleece, Ukuran  6~8~10~12 Tahun, Warna BIRU NAVY",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/362-cse-138.jpg,Jaket / Sweater Anak Perempuan - CSE 138,Rp 123.900,CSE 138,Baru
+Jual Jaket / Sweater Anak Perempuan - CDI 124 Murah,jaket-sweater-anak-perempuan-cdi-124,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -802,7 +802,7 @@ Jual Dress Anak Perempuan - CBV 017 Murah,dress-anak-perempuan-cbv-017,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CBV 017 dengan bahan Cotton ini dijamin awet.<br/>Kode : CBV 017<br/>Warna : PUTIH<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CDI 124 dengan bahan Fleece ini dijamin awet.<br/>Kode : CDI 124<br/>Warna : ABU KOMBINASI<br/>Bahan : Fleece<br/>Ukuran :  6~8~10~12 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -817,8 +817,8 @@ Jual Dress Anak Perempuan - CBV 017 Murah,dress-anak-perempuan-cbv-017,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/320-cbv-017.jpg,Dress Anak Perempuan - CBV 017,Rp 153.900,CBV 017,Baru
-Jual Dress Anak Perempuan - CSH 023 Murah,dress-anak-perempuan-csh-023,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Fleece, Ukuran  6~8~10~12 Tahun, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/363-cdi-124.jpg,Jaket / Sweater Anak Perempuan - CDI 124,Rp 138.900,CDI 124,Baru
+Jual Jaket / Sweater Anak Perempuan - CYI 157 Murah,jaket-sweater-anak-perempuan-cyi-157,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -865,7 +865,7 @@ Jual Dress Anak Perempuan - CSH 023 Murah,dress-anak-perempuan-csh-023,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CSH 023 dengan bahan Cotton ini dijamin awet.<br/>Kode : CSH 023<br/>Warna : MERAH BATA<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CYI 157 dengan bahan Diadora ini dijamin awet.<br/>Kode : CYI 157<br/>Warna : PINK<br/>Bahan : Diadora<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -880,8 +880,8 @@ Jual Dress Anak Perempuan - CSH 023 Murah,dress-anak-perempuan-csh-023,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna MERAH BATA",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/321-csh-023.jpg,Dress Anak Perempuan - CSH 023,Rp 115.900,CSH 023,Baru
-Jual Dress Anak Perempuan - CBV 016 Murah,dress-anak-perempuan-cbv-016,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Diadora, Ukuran 4~6~8~10 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/364-cyi-157.jpg,Jaket / Sweater Anak Perempuan - CYI 157,Rp 118.900,CYI 157,Baru
+Jual Jaket / Sweater Anak Perempuan - CHR 248 Murah,jaket-sweater-anak-perempuan-chr-248,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -928,7 +928,7 @@ Jual Dress Anak Perempuan - CBV 016 Murah,dress-anak-perempuan-cbv-016,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CBV 016 dengan bahan Velvet ini dijamin awet.<br/>Kode : CBV 016<br/>Warna : UNGU<br/>Bahan : Velvet<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CHR 248 dengan bahan Fleece ini dijamin awet.<br/>Kode : CHR 248<br/>Warna : UNGU KOMBINASI<br/>Bahan : Fleece<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -943,8 +943,8 @@ Jual Dress Anak Perempuan - CBV 016 Murah,dress-anak-perempuan-cbv-016,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Velvet, Ukuran 4~6~8~10 Tahun, Warna UNGU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/322-cbv-016.jpg,Dress Anak Perempuan - CBV 016,Rp 150.900,CBV 016,Baru
-Jual Dress Anak Perempuan - CMS 122 Murah,dress-anak-perempuan-cms-122,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Fleece, Ukuran 4~6~8~10 Tahun, Warna UNGU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/365-chr-248.jpg,Jaket / Sweater Anak Perempuan - CHR 248,Rp 123.900,CHR 248,Baru
+Jual Jaket / Sweater Anak Perempuan - CNK 001 Murah,jaket-sweater-anak-perempuan-cnk-001,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -991,7 +991,7 @@ Jual Dress Anak Perempuan - CMS 122 Murah,dress-anak-perempuan-cms-122,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CMS 122 dengan bahan Cotton ini dijamin awet.<br/>Kode : CMS 122<br/>Warna : PUTIH PINK<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Jaket Sweater Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Jaket / Sweater Anak Perempuan - CNK 001 dengan bahan Fleece ini dijamin awet.<br/>Kode : CNK 001<br/>Warna : MARUN<br/>Bahan : Fleece<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.75 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1006,8 +1006,8 @@ Jual Dress Anak Perempuan - CMS 122 Murah,dress-anak-perempuan-cms-122,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna PUTIH PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/323-cms-122.jpg,Dress Anak Perempuan - CMS 122,Rp 113.900,CMS 122,Baru
-Jual Dress Anak Perempuan - CMS 129 Murah,dress-anak-perempuan-cms-129,"
+     </div><!--/category-tab-->",2017-02-05,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan Fleece, Ukuran 4~6~8~10 Tahun, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/366-cnk-001.jpg,Jaket / Sweater Anak Perempuan - CNK 001,Rp 127.900,CNK 001,Baru
+Jual Jaket / Sweater Anak Perempuan - SRO 688 Murah,jaket-sweater-anak-perempuan-sro-688,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1054,7 +1054,7 @@ Jual Dress Anak Perempuan - CMS 129 Murah,dress-anak-perempuan-cms-129,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CMS 129 dengan bahan Cotton ini dijamin awet.<br/>Kode : CMS 129<br/>Warna : MERAH KOMBINASI<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SRO 688 dengan bahan CANVAS ini dijamin awet.<br/>Kode : SRO 688<br/>Warna : OLIVE<br/>Bahan : CANVAS<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1069,8 +1069,8 @@ Jual Dress Anak Perempuan - CMS 129 Murah,dress-anak-perempuan-cms-129,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/324-cms-129.jpg,Dress Anak Perempuan - CMS 129,Rp 117.900,CMS 129,Baru
-Jual Dress Anak Perempuan - CMS 126 Murah,dress-anak-perempuan-cms-126,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 6 -8-10 TAHUN  , Warna OLIVE",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/497-sro-688.jpg,Jaket / Sweater Anak Perempuan - SRO 688,Rp 142.900,SRO 688,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 754 Murah,jaket-sweater-anak-perempuan-sky-754,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1117,7 +1117,7 @@ Jual Dress Anak Perempuan - CMS 126 Murah,dress-anak-perempuan-cms-126,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CMS 126 dengan bahan Cotton ini dijamin awet.<br/>Kode : CMS 126<br/>Warna : PINK<br/>Bahan : Cotton<br/>Ukuran : 2~4~6~8 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 754 dengan bahan FLEECE COTTON ini dijamin awet.<br/>Kode : SKY 754<br/>Warna : ABU<br/>Bahan : FLEECE COTTON<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1132,8 +1132,8 @@ Jual Dress Anak Perempuan - CMS 126 Murah,dress-anak-perempuan-cms-126,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 2~4~6~8 Tahun, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/325-cms-126.jpg,Dress Anak Perempuan - CMS 126,Rp 117.900,CMS 126,Baru
-Jual Dress Anak Perempuan - CDG 118 Murah,dress-anak-perempuan-cdg-118,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE COTTON, Ukuran 6 -8-10 TAHUN  , Warna ABU",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/498-sky-754.jpg,Jaket / Sweater Anak Perempuan - SKY 754,Rp 140.900,SKY 754,Baru
+Jual Jaket / Sweater Anak Perempuan - STJ 146 Murah,jaket-sweater-anak-perempuan-stj-146,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1180,7 +1180,7 @@ Jual Dress Anak Perempuan - CDG 118 Murah,dress-anak-perempuan-cdg-118,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDG 118 dengan bahan Cotton ini dijamin awet.<br/>Kode : CDG 118<br/>Warna : HITAM<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - STJ 146 dengan bahan FLEECE ini dijamin awet.<br/>Kode : STJ 146<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1195,8 +1195,8 @@ Jual Dress Anak Perempuan - CDG 118 Murah,dress-anak-perempuan-cdg-118,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna HITAM",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/326-cdg-118.jpg,Dress Anak Perempuan - CDG 118,Rp 133.900,CDG 118,Baru
-Jual Dress Anak Perempuan - CDG 119 Murah,dress-anak-perempuan-cdg-119,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna MERAH",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/499-stj-146.jpg,Jaket / Sweater Anak Perempuan - STJ 146,Rp 122.900,STJ 146,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 616 Murah,jaket-sweater-anak-perempuan-sky-616,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1243,7 +1243,7 @@ Jual Dress Anak Perempuan - CDG 119 Murah,dress-anak-perempuan-cdg-119,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDG 119 dengan bahan Cotton ini dijamin awet.<br/>Kode : CDG 119<br/>Warna : MERAH<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 616 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKY 616<br/>Warna : MARUN<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1258,8 +1258,8 @@ Jual Dress Anak Perempuan - CDG 119 Murah,dress-anak-perempuan-cdg-119,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/327-cdg-119.jpg,Dress Anak Perempuan - CDG 119,Rp 112.900,CDG 119,Baru
-Jual Dress Anak Perempuan - CDG 116 Murah,dress-anak-perempuan-cdg-116,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna MARUN",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/500-sky-616.jpg,Jaket / Sweater Anak Perempuan - SKY 616,Rp 145.900,SKY 616,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 400 Murah,jaket-sweater-anak-perempuan-sky-400,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1306,7 +1306,7 @@ Jual Dress Anak Perempuan - CDG 116 Murah,dress-anak-perempuan-cdg-116,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDG 116 dengan bahan Cotton ini dijamin awet.<br/>Kode : CDG 116<br/>Warna : MERAH KOMBINASI<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 400 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKY 400<br/>Warna : DONGKER<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1321,8 +1321,8 @@ Jual Dress Anak Perempuan - CDG 116 Murah,dress-anak-perempuan-cdg-116,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna MERAH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/328-cdg-116.jpg,Dress Anak Perempuan - CDG 116,Rp 149.900,CDG 116,Baru
-Jual Dress Anak Perempuan - CDG 114 Murah,dress-anak-perempuan-cdg-114,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna DONGKER",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/501-sky-400.jpg,Jaket / Sweater Anak Perempuan - SKY 400,Rp 149.900,SKY 400,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 807 Murah,jaket-sweater-anak-perempuan-sky-807,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1369,7 +1369,7 @@ Jual Dress Anak Perempuan - CDG 114 Murah,dress-anak-perempuan-cdg-114,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDG 114 dengan bahan Cotton ini dijamin awet.<br/>Kode : CDG 114<br/>Warna : MERAH<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 807 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKY 807<br/>Warna : NAVY<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1384,8 +1384,8 @@ Jual Dress Anak Perempuan - CDG 114 Murah,dress-anak-perempuan-cdg-114,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/329-cdg-114.jpg,Dress Anak Perempuan - CDG 114,Rp 119.900,CDG 114,Baru
-Jual Dress Anak Perempuan - CSG 249 Murah,dress-anak-perempuan-csg-249,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna NAVY",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/502-sky-807.jpg,Jaket / Sweater Anak Perempuan - SKY 807,Rp 157.900,SKY 807,Baru
+Jual Jaket / Sweater Anak Perempuan - SSN 423 Murah,jaket-sweater-anak-perempuan-ssn-423,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1432,7 +1432,7 @@ Jual Dress Anak Perempuan - CSG 249 Murah,dress-anak-perempuan-csg-249,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CSG 249 dengan bahan Cotton ini dijamin awet.<br/>Kode : CSG 249<br/>Warna : PUTIH KOMBINASI<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SSN 423 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SSN 423<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1447,8 +1447,8 @@ Jual Dress Anak Perempuan - CSG 249 Murah,dress-anak-perempuan-csg-249,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna PUTIH KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/330-csg-249.jpg,Dress Anak Perempuan - CSG 249,Rp 131.900,CSG 249,Baru
-Jual Dress Anak Perempuan - CAC 274 Murah,dress-anak-perempuan-cac-274,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna MERAH",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/503-ssn-423.jpg,Jaket / Sweater Anak Perempuan - SSN 423,Rp 123.900,SSN 423,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 114 Murah,jaket-sweater-anak-perempuan-sky-114,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1495,7 +1495,7 @@ Jual Dress Anak Perempuan - CAC 274 Murah,dress-anak-perempuan-cac-274,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CAC 274 dengan bahan Cotton ini dijamin awet.<br/>Kode : CAC 274<br/>Warna : ORANGE<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 114 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKY 114<br/>Warna : PINK<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1510,8 +1510,8 @@ Jual Dress Anak Perempuan - CAC 274 Murah,dress-anak-perempuan-cac-274,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna ORANGE",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/331-cac-274.jpg,Dress Anak Perempuan - CAC 274,Rp 119.900,CAC 274,Baru
-Jual Dress Anak Perempuan - CNK 002 Murah,dress-anak-perempuan-cnk-002,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna PINK",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/504-sky-114.jpg,Jaket / Sweater Anak Perempuan - SKY 114,Rp 149.900,SKY 114,Baru
+Jual Jaket / Sweater Anak Perempuan - STJ 041 Murah,jaket-sweater-anak-perempuan-stj-041,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1558,7 +1558,7 @@ Jual Dress Anak Perempuan - CNK 002 Murah,dress-anak-perempuan-cnk-002,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CNK 002 dengan bahan Fleece ini dijamin awet.<br/>Kode : CNK 002<br/>Warna : BIRU NAVY<br/>Bahan : Fleece<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - STJ 041 dengan bahan FLEECE ini dijamin awet.<br/>Kode : STJ 041<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1573,8 +1573,8 @@ Jual Dress Anak Perempuan - CNK 002 Murah,dress-anak-perempuan-cnk-002,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Fleece, Ukuran 4~6~8~10 Tahun, Warna BIRU NAVY",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/332-cnk-002.jpg,Dress Anak Perempuan - CNK 002,Rp 130.900,CNK 002,Baru
-Jual Dress Anak Perempuan - CSH 021 Murah,dress-anak-perempuan-csh-021,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna MERAH",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/505-stj-041.jpg,Jaket / Sweater Anak Perempuan - STJ 041,Rp 122.900,STJ 041,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 578 Murah,jaket-sweater-anak-perempuan-sky-578,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1621,7 +1621,7 @@ Jual Dress Anak Perempuan - CSH 021 Murah,dress-anak-perempuan-csh-021,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CSH 021 dengan bahan Cotton ini dijamin awet.<br/>Kode : CSH 021<br/>Warna : BIRU KOMBINASI<br/>Bahan : Cotton<br/>Ukuran : 4~6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 578 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKY 578<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1636,8 +1636,8 @@ Jual Dress Anak Perempuan - CSH 021 Murah,dress-anak-perempuan-csh-021,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Cotton, Ukuran 4~6~8~10 Tahun, Warna BIRU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/333-csh-021.jpg,Dress Anak Perempuan - CSH 021,Rp 122.900,CSH 021,Baru
-Jual Dress Anak Perempuan - CDF 109 Murah,dress-anak-perempuan-cdf-109,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna MERAH",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/506-sky-578.jpg,Jaket / Sweater Anak Perempuan - SKY 578,Rp 137.900,SKY 578,Baru
+Jual Jaket / Sweater Anak Perempuan - SKY 588 Murah,jaket-sweater-anak-perempuan-sky-588,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1684,7 +1684,7 @@ Jual Dress Anak Perempuan - CDF 109 Murah,dress-anak-perempuan-cdf-109,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 109 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 109<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran : 2~4~6 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKY 588 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKY 588<br/>Warna : KUNING<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1699,8 +1699,8 @@ Jual Dress Anak Perempuan - CDF 109 Murah,dress-anak-perempuan-cdf-109,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran 2~4~6 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/334-cdf-109.jpg,Dress Anak Perempuan - CDF 109,Rp 137.900,CDF 109,Baru
-Jual Dress Anak Perempuan - CDF 119 Murah,dress-anak-perempuan-cdf-119,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna KUNING",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/507-sky-588.jpg,Jaket / Sweater Anak Perempuan - SKY 588,Rp 133.900,SKY 588,Baru
+Jual Jaket / Sweater Anak Perempuan - SIP 301 Murah,jaket-sweater-anak-perempuan-sip-301,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1747,7 +1747,7 @@ Jual Dress Anak Perempuan - CDF 119 Murah,dress-anak-perempuan-cdf-119,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 119 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 119<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran : 2~4~6 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Inficlo. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SIP 301 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SIP 301<br/>Warna : ABU MERAH<br/>Bahan : FLEECE<br/>Ukuran : 6 -8-10 TAHUN  <br/>Berat : 0.5 kg<br/><br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1762,8 +1762,8 @@ Jual Dress Anak Perempuan - CDF 119 Murah,dress-anak-perempuan-cdf-119,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran 2~4~6 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/335-cdf-119.jpg,Dress Anak Perempuan - CDF 119,Rp 145.900,CDF 119,Baru
-Jual Dress Anak Perempuan - CDF 121 Murah,dress-anak-perempuan-cdf-121,"
+     </div><!--/category-tab-->",2017-02-11,html,jaket-sweater-anak-perempuan,inficlo,jaket-sweater-anak-perempuan,inficlo,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 -8-10 TAHUN  , Warna ABU MERAH",https://images.lipatan.com/katalog-inficlo-2017/foto-produk-satuan/508-sip-301.jpg,Jaket / Sweater Anak Perempuan - SIP 301,Rp 125.900,SIP 301,Baru
+Jual Jaket Parka Anak Perempuan - T 2053 Murah,jaket-parka-anak-perempuan-t-2053,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1810,7 +1810,7 @@ Jual Dress Anak Perempuan - CDF 121 Murah,dress-anak-perempuan-cdf-121,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 121 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 121<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran : 2~4~6 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Parka Anak Perempuan - T 2053 dengan bahan BABY CANVAS ini dijamin awet.<br/>Kode : T 2053<br/>Warna : CREAM<br/>Bahan : BABY CANVAS<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1825,8 +1825,8 @@ Jual Dress Anak Perempuan - CDF 121 Murah,dress-anak-perempuan-cdf-121,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran 2~4~6 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/336-cdf-121.jpg,Dress Anak Perempuan - CDF 121,Rp 160.900,CDF 121,Baru
-Jual Dress Anak Perempuan - CDF 117 Murah,dress-anak-perempuan-cdf-117,"
+     </div><!--/category-tab-->",2017-02-15,html,jaket-sweater-anak-perempuan,tdlr,jaket-sweater-anak-perempuan,tdlr,"Jaket Sweater Anak Perempuan Bahan BABY CANVAS, Ukuran 6.8.10.12 Tahun, Warna CREAM",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/142-t-2053.jpg,Jaket Parka Anak Perempuan - T 2053,Rp 175.900,T 2053,Baru
+Jual Jaket / Sweater Anak Perempuan - T 2517 Murah,jaket-sweater-anak-perempuan-t-2517,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1873,7 +1873,7 @@ Jual Dress Anak Perempuan - CDF 117 Murah,dress-anak-perempuan-cdf-117,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 117 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 117<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran : 4~6~8 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - T 2517 dengan bahan FLEECE ini dijamin awet.<br/>Kode : T 2517<br/>Warna : PINK<br/>Bahan : FLEECE<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1888,8 +1888,8 @@ Jual Dress Anak Perempuan - CDF 117 Murah,dress-anak-perempuan-cdf-117,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran 4~6~8 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/337-cdf-117.jpg,Dress Anak Perempuan - CDF 117,Rp 156.900,CDF 117,Baru
-Jual Dress Anak Perempuan - CAC 268 Murah,dress-anak-perempuan-cac-268,"
+     </div><!--/category-tab-->",2017-02-15,html,jaket-sweater-anak-perempuan,tdlr,jaket-sweater-anak-perempuan,tdlr,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6.8.10.12 Tahun, Warna PINK",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/143-t-2517.jpg,Jaket / Sweater Anak Perempuan - T 2517,Rp 129.900,T 2517,Baru
+Jual Jaket / Sweater Anak Perempuan - T 2404 Murah,jaket-sweater-anak-perempuan-t-2404,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1936,7 +1936,7 @@ Jual Dress Anak Perempuan - CAC 268 Murah,dress-anak-perempuan-cac-268,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CAC 268 dengan bahan Denim ini dijamin awet.<br/>Kode : CAC 268<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - T 2404 dengan bahan FLEECE ini dijamin awet.<br/>Kode : T 2404<br/>Warna : GREY<br/>Bahan : FLEECE<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -1951,8 +1951,8 @@ Jual Dress Anak Perempuan - CAC 268 Murah,dress-anak-perempuan-cac-268,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran  6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/338-cac-268.jpg,Dress Anak Perempuan - CAC 268,Rp 138.900,CAC 268,Baru
-Jual Dress Anak Perempuan - CDF 112 Murah,dress-anak-perempuan-cdf-112,"
+     </div><!--/category-tab-->",2017-02-15,html,jaket-sweater-anak-perempuan,tdlr,jaket-sweater-anak-perempuan,tdlr,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6.8.10.12 Tahun, Warna GREY",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/144-t-2404.jpg,Jaket / Sweater Anak Perempuan - T 2404,Rp 110.900,T 2404,Baru
+Jual Jaket / Sweater Anak Perempuan - T 2078 Murah,jaket-sweater-anak-perempuan-t-2078,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1999,7 +1999,7 @@ Jual Dress Anak Perempuan - CDF 112 Murah,dress-anak-perempuan-cdf-112,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 112 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 112<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - T 2078 dengan bahan FLEECE ini dijamin awet.<br/>Kode : T 2078<br/>Warna : GREY<br/>Bahan : FLEECE<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2014,8 +2014,8 @@ Jual Dress Anak Perempuan - CDF 112 Murah,dress-anak-perempuan-cdf-112,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran  6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/339-cdf-112.jpg,Dress Anak Perempuan - CDF 112,Rp 154.900,CDF 112,Baru
-Jual Dress Anak Perempuan - CDF 110 Murah,dress-anak-perempuan-cdf-110,"
+     </div><!--/category-tab-->",2017-02-15,html,jaket-sweater-anak-perempuan,tdlr,jaket-sweater-anak-perempuan,tdlr,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6.8.10.12 Tahun, Warna GREY",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/145-t-2078.jpg,Jaket / Sweater Anak Perempuan - T 2078,Rp 152.900,T 2078,Baru
+Jual Jaket / Sweater / Hoodies Anak Perempuan - IKC 801 Murah,jaket-sweater-hoodies-anak-perempuan-ikc-801,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2062,7 +2062,7 @@ Jual Dress Anak Perempuan - CDF 110 Murah,dress-anak-perempuan-cdf-110,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 110 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 110<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran :  6~8~10 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek CBR Six. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater / Hoodies Anak Perempuan - IKC 801 dengan bahan FLEECE ini dijamin awet.<br/>Kode : IKC 801<br/>Warna : PINK<br/>Bahan : FLEECE<br/>Ukuran : M - L<br/>Berat : 0.65 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2077,8 +2077,8 @@ Jual Dress Anak Perempuan - CDF 110 Murah,dress-anak-perempuan-cdf-110,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran  6~8~10 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/340-cdf-110.jpg,Dress Anak Perempuan - CDF 110,Rp 145.900,CDF 110,Baru
-Jual Dress Anak Perempuan - CDF 113 Murah,dress-anak-perempuan-cdf-113,"
+     </div><!--/category-tab-->",2017-02-04,html,jaket-sweater-anak-perempuan,cbr-six,jaket-sweater-anak-perempuan,cbr-six,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran M - L, Warna PINK",https://images.lipatan.com/katalog-cbr-six-2017/foto-produk-satuan/719-ikc-801.jpg,Jaket / Sweater / Hoodies Anak Perempuan - IKC 801,Rp 116.900,IKC 801,Baru
+Jual Jaket / Sweater Anak Perempuan - SKR 804 Murah,jaket-sweater-anak-perempuan-skr-804,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2125,7 +2125,7 @@ Jual Dress Anak Perempuan - CDF 113 Murah,dress-anak-perempuan-cdf-113,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Bosan dengan produk fashion anak yang ada di pasar atau mall? Gak cuma orang dewasa, anak-anak pun ingin tampil trendy. Dengan produk Dress Anak Perempuan merek Catenzo Junior ini membuat anak Anda semakin terlihat gaya, trendy dan berbeda. Dress Anak Perempuan - CDF 113 dengan bahan Denim ini dijamin awet.<br/>Kode : CDF 113<br/>Warna : BIRU<br/>Bahan : Denim<br/>Ukuran : 2~4~6 Tahun<br/>Berat : 0.65 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Java Seven. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKR 804 dengan bahan PARASUT ini dijamin awet.<br/>Kode : SKR 804<br/>Warna : HITAM<br/>Bahan : PARASUT<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2140,8 +2140,8 @@ Jual Dress Anak Perempuan - CDF 113 Murah,dress-anak-perempuan-cdf-113,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-05,html,dress-anak-perempuan,catenzo-junior,dress-anak-perempuan,catenzo-junior,"Dress Anak Perempuan Bahan Denim, Ukuran 2~4~6 Tahun, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017/foto-produk-satuan/341-cdf-113.jpg,Dress Anak Perempuan - CDF 113,Rp 145.900,CDF 113,Baru
-Jual Kemeja Anak Perempuan - T 1011 Murah,kemeja-anak-perempuan-t-1011,"
+     </div><!--/category-tab-->",2017-02-12,html,jaket-sweater-anak-perempuan,java-seven,jaket-sweater-anak-perempuan,java-seven,"Jaket Sweater Anak Perempuan Bahan PARASUT, Ukuran M - L, Warna HITAM",https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/707-skr-804.jpg,Jaket / Sweater Anak Perempuan - SKR 804,Rp 99.900,SKR 804,Baru
+Jual Jaket / Sweater Anak Perempuan - SKR 169 Murah,jaket-sweater-anak-perempuan-skr-169,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2188,7 +2188,7 @@ Jual Kemeja Anak Perempuan - T 1011 Murah,kemeja-anak-perempuan-t-1011,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kemeja Anak Perempuan - T 1011 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 1011<br/>Warna : BLUE<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Java Seven. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKR 169 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKR 169<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2203,8 +2203,8 @@ Jual Kemeja Anak Perempuan - T 1011 Murah,kemeja-anak-perempuan-t-1011,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna BLUE",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/140-t-1011.jpg,Kemeja Anak Perempuan - T 1011,Rp 117.900,T 1011,Baru
-Jual Kemeja Anak Perempuan - T 3196 Murah,kemeja-anak-perempuan-t-3196,"
+     </div><!--/category-tab-->",2017-02-12,html,jaket-sweater-anak-perempuan,java-seven,jaket-sweater-anak-perempuan,java-seven,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran M - L, Warna MERAH",https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/708-skr-169.jpg,Jaket / Sweater Anak Perempuan - SKR 169,Rp 96.900,SKR 169,Baru
+Jual Jaket / Sweater Anak Perempuan - SKR 802 Murah,jaket-sweater-anak-perempuan-skr-802,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -2251,7 +2251,7 @@ Jual Kemeja Anak Perempuan - T 3196 Murah,kemeja-anak-perempuan-t-3196,"
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kemeja Anak Perempuan - T 3196 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3196<br/>Warna : BLUE COMB<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
+         <p>Tampil trendy dengan Jaket Sweater Anak Perempuan merek Java Seven. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket / Sweater Anak Perempuan - SKR 802 dengan bahan FLEECE ini dijamin awet.<br/>Kode : SKR 802<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : M - L<br/>Berat : 0.6 kg<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -2266,1390 +2266,4 @@ Jual Kemeja Anak Perempuan - T 3196 Murah,kemeja-anak-perempuan-t-3196,"
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna BLUE COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/141-t-3196.jpg,Kemeja Anak Perempuan - T 3196,Rp 129.900,T 3196,Baru
-Jual Dress Katun Anak Perempuan - T 3013 Murah,dress-katun-anak-perempuan-t-3013,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3013 dengan bahan COTTON - CHAMBRAY ini dijamin awet.<br/>Kode : T 3013<br/>Warna : BLUE COMB<br/>Bahan : COTTON - CHAMBRAY<br/>Ukuran : 2.3.4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON - CHAMBRAY, Ukuran 2.3.4.6.8.10.12 Tahun, Warna BLUE COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/149-t-3013.jpg,Dress Katun Anak Perempuan - T 3013,Rp 151.900,T 3013,Baru
-Jual Dress Katun Anak Perempuan - T 3119 Murah,dress-katun-anak-perempuan-t-3119,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3119 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3119<br/>Warna : RED COMB<br/>Bahan : COTTON<br/>Ukuran : 6.8.10 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10 Tahun, Warna RED COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/150-t-3119.jpg,Dress Katun Anak Perempuan - T 3119,Rp 103.900,T 3119,Baru
-Jual Dress Katun Anak Perempuan - T 3187 Murah,dress-katun-anak-perempuan-t-3187,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3187 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3187<br/>Warna : MAROON<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna MAROON",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/151-t-3187.jpg,Dress Katun Anak Perempuan - T 3187,Rp 110.900,T 3187,Baru
-Jual Dress Katun Anak Perempuan - T 3191 Murah,dress-katun-anak-perempuan-t-3191,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3191 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3191<br/>Warna : WHITE COMB<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6 Tahun, Warna WHITE COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/152-t-3191.jpg,Dress Katun Anak Perempuan - T 3191,Rp 97.900,T 3191,Baru
-Jual Dress Katun Anak Perempuan - T 3030 Murah,dress-katun-anak-perempuan-t-3030,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3030 dengan bahan COTTON COMBED ini dijamin awet.<br/>Kode : T 3030<br/>Warna : GREY<br/>Bahan : COTTON COMBED<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON COMBED, Ukuran 2.3.4.6 Tahun, Warna GREY",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/153-t-3030.jpg,Dress Katun Anak Perempuan - T 3030,Rp 113.900,T 3030,Baru
-Jual Dress Katun Anak Perempuan - T 3031 Murah,dress-katun-anak-perempuan-t-3031,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3031 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3031<br/>Warna : BLACK COMB<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna BLACK COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/154-t-3031.jpg,Dress Katun Anak Perempuan - T 3031,Rp 107.900,T 3031,Baru
-Jual Dress Katun Anak Perempuan - T 3000 Murah,dress-katun-anak-perempuan-t-3000,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3000 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3000<br/>Warna : GREY<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6 Tahun, Warna GREY",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/155-t-3000.jpg,Dress Katun Anak Perempuan - T 3000,Rp 99.900,T 3000,Baru
-Jual Dress Katun Anak Perempuan - T 3029 Murah,dress-katun-anak-perempuan-t-3029,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3029 dengan bahan COTTON COMBED ini dijamin awet.<br/>Kode : T 3029<br/>Warna : GREY<br/>Bahan : COTTON COMBED<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON COMBED, Ukuran 2.3.4.6 Tahun, Warna GREY",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/156-t-3029.jpg,Dress Katun Anak Perempuan - T 3029,Rp 113.900,T 3029,Baru
-Jual Dress Katun Anak Perempuan - T 3002 Murah,dress-katun-anak-perempuan-t-3002,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3002 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3002<br/>Warna : PINK COMB<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6 Tahun, Warna PINK COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/157-t-3002.jpg,Dress Katun Anak Perempuan - T 3002,Rp 104.900,T 3002,Baru
-Jual Dress Denim Anak Perempuan - T 4083 Murah,dress-denim-anak-perempuan-t-4083,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Denim Anak Perempuan - T 4083 dengan bahan DENIM ini dijamin awet.<br/>Kode : T 4083<br/>Warna : BLUE<br/>Bahan : DENIM<br/>Ukuran : 4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan DENIM, Ukuran 4.6.8.10.12 Tahun, Warna BLUE",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/158-t-4083.jpg,Dress Denim Anak Perempuan - T 4083,Rp 135.900,T 4083,Baru
-Jual Dress Katun Anak Perempuan - T 3186 Murah,dress-katun-anak-perempuan-t-3186,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3186 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3186<br/>Warna : BLUE COMB<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6.8.10.12 Tahun, Warna BLUE COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/159-t-3186.jpg,Dress Katun Anak Perempuan - T 3186,Rp 129.900,T 3186,Baru
-Jual Dress Katun Anak Perempuan - T 3014 Murah,dress-katun-anak-perempuan-t-3014,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3014 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3014<br/>Warna : BLUE<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna BLUE",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/160-t-3014.jpg,Dress Katun Anak Perempuan - T 3014,Rp 121.900,T 3014,Baru
-Jual Dress Denim Anak Perempuan - T 4160 Murah,dress-denim-anak-perempuan-t-4160,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Denim Anak Perempuan - T 4160 dengan bahan DENIM ini dijamin awet.<br/>Kode : T 4160<br/>Warna : BLUE<br/>Bahan : DENIM<br/>Ukuran : 4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan DENIM, Ukuran 4.6.8.10.12 Tahun, Warna BLUE",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/161-t-4160.jpg,Dress Denim Anak Perempuan - T 4160,Rp 136.900,T 4160,Baru
-Jual Dress Katun Anak Perempuan - T 3015 Murah,dress-katun-anak-perempuan-t-3015,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3015 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3015<br/>Warna : BLUE <br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6 Tahun, Warna BLUE ",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/162-t-3015.jpg,Dress Katun Anak Perempuan - T 3015,Rp 121.900,T 3015,Baru
-Jual Dress Katun Anak Perempuan - T 3006 Murah,dress-katun-anak-perempuan-t-3006,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3006 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3006<br/>Warna : RED COMB<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna RED COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/163-t-3006.jpg,Dress Katun Anak Perempuan - T 3006,Rp 135.900,T 3006,Baru
-Jual Dress Anak Perempuan - T 3192 Murah,dress-anak-perempuan-t-3192,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Anak Perempuan - T 3192 dengan bahan TERRY ini dijamin awet.<br/>Kode : T 3192<br/>Warna : RED<br/>Bahan : TERRY<br/>Ukuran : 2.3.4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan TERRY, Ukuran 2.3.4.6.8.10.12 Tahun, Warna RED",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/164-t-3192.jpg,Dress Anak Perempuan - T 3192,Rp 129.900,T 3192,Baru
-Jual Dress Katun Anak Perempuan - T 3197 Murah,dress-katun-anak-perempuan-t-3197,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3197 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3197<br/>Warna : WHITE<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6 Tahun, Warna WHITE",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/165-t-3197.jpg,Dress Katun Anak Perempuan - T 3197,Rp 129.900,T 3197,Baru
-Jual Dress Katun Anak Perempuan - T 3010 Murah,dress-katun-anak-perempuan-t-3010,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3010 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3010<br/>Warna : GREY<br/>Bahan : COTTON<br/>Ukuran : 2.3.4 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4 Tahun, Warna GREY",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/166-t-3010.jpg,Dress Katun Anak Perempuan - T 3010,Rp 143.900,T 3010,Baru
-Jual Dress Anak Perempuan - T 3120 Murah,dress-anak-perempuan-t-3120,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Anak Perempuan - T 3120 dengan bahan RAYON ini dijamin awet.<br/>Kode : T 3120<br/>Warna : WHITE COMB<br/>Bahan : RAYON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan RAYON, Ukuran 6.8.10.12 Tahun, Warna WHITE COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/167-t-3120.jpg,Dress Anak Perempuan - T 3120,Rp 128.900,T 3120,Baru
-Jual Dress Katun Anak Perempuan - T 3160 Murah,dress-katun-anak-perempuan-t-3160,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3160 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3160<br/>Warna : BLUE<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6.8.10.12 Tahun, Warna BLUE",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/168-t-3160.jpg,Dress Katun Anak Perempuan - T 3160,Rp 120.900,T 3160,Baru
-Jual Dress Katun Anak Perempuan - T 3170 Murah,dress-katun-anak-perempuan-t-3170,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3170 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3170<br/>Warna : PINK COMB<br/>Bahan : COTTON<br/>Ukuran : 2.3.4.6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 2.3.4.6.8.10.12 Tahun, Warna PINK COMB",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/169-t-3170.jpg,Dress Katun Anak Perempuan - T 3170,Rp 145.900,T 3170,Baru
-Jual Dress Katun Anak Perempuan - T 3001 Murah,dress-katun-anak-perempuan-t-3001,"
-     <div class=""product-details""><!--product-details-->
-      <div class=""col-sm-5"">
-       <div class=""view-product"">
-        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
-        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
-       </div>
-      </div>
-
-      <div class=""col-sm-7"">
-       <div class=""product-information""><!--/product-information-->
-        <h1>{{ page.product }}</h1>
-        <p>SKU: {{ page.sku }}</p>
-        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
-        <span>
-         <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
-          </a>
-         </label>
-        </span>
-        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
-        <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
-       </div><!--/product-information-->
-      </div>
-     </div><!--/product-details-->
-     
-     <div class=""category-tab shop-details-tab""><!--category-tab-->
-      <div class=""col-sm-12"">
-       <ul class=""nav nav-tabs"">
-        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
-       </ul>
-      </div>
-      <div class=""tab-content"">
-       <div class=""tab-pane fade active in"" id=""keterangan"" >
-        <div class=""col-sm-12"">
-         <h2>{{ page.product }}</h2>         
-         <ol class=""breadcrumb"">
-            <li class=""active"">Tag :</li>
-            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
-            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
-         </ol>         
-         <p>Tampil trendy dengan Dress Anak Perempuan merek TDLR. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Dress Katun Anak Perempuan - T 3001 dengan bahan COTTON ini dijamin awet.<br/>Kode : T 3001<br/>Warna : MAROON<br/>Bahan : COTTON<br/>Ukuran : 6.8.10.12 Tahun<br/>Berat : 0.4 kg<br>
-         </p>
-
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
-         ID Penjual : BDRS<br>
-         Lokasi : Bandung</p>
-
-         {% include share.html %}
-
-         {% include disqus.html %}
-         
-        </div>
-       </div>       
-       
-      </div>
-     </div><!--/category-tab-->",2017-02-15,html,dress-anak-perempuan,tdlr,dress-anak-perempuan,tdlr,"Dress Anak Perempuan Bahan COTTON, Ukuran 6.8.10.12 Tahun, Warna MAROON",https://images.lipatan.com/katalog-tdlr-2017/foto-produk-satuan/170-t-3001.jpg,Dress Katun Anak Perempuan - T 3001,Rp 99.900,T 3001,Baru
+     </div><!--/category-tab-->",2017-02-12,html,jaket-sweater-anak-perempuan,java-seven,jaket-sweater-anak-perempuan,java-seven,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran M - L, Warna MERAH",https://images.lipatan.com/katalog-java-seven-2017/foto-produk-satuan/709-skr-802.jpg,Jaket / Sweater Anak Perempuan - SKR 802,Rp 116.900,SKR 802,Baru
