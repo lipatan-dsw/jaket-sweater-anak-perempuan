@@ -1,5 +1,5 @@
 title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CPL 909 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cpl-909,"
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CPL 909 Murah,cpl-909,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -15,19 +15,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CPL 909 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -47,14 +47,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CPL 909 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CPL 909 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan TERRY.<br/>Kode : CPL 909<br/>Warna : ABU MISTY<br/>Bahan : TERRY<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CPL 909 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan TERRY.<br/>Kode : CPL 909<br/>Warna : ABU MISTY<br/>Bahan : TERRY<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -62,8 +60,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CPL 909 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan TERRY, Ukuran 4 - 10, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/312-cpl-909.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CPL 909,Rp 109.900,Rp 128.900,Rp 19.000,CPL 909,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 135 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdg-135,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan TERRY, Ukuran 4 ~ 10, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cpl-909.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CPL 909,Rp 116.900,Rp 134.900,Rp 18.000,CPL 909,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CPL 924 Murah,cpl-924,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -79,19 +77,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 135 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -111,14 +109,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 135 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 135 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CDG 135<br/>Warna : ABU ABU<br/>Bahan : FLEECE<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CPL 924 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CPL 924<br/>Warna : PUTIH<br/>Bahan : FLEECE<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -126,8 +122,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 135 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 - 10, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/313-cdg-135.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 135,Rp 82.400,Rp 96.900,Rp 14.500,CDG 135,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 124 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdi-124,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 ~ 10, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cpl-924.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CPL 924,Rp 111.900,Rp 128.900,Rp 17.000,CPL 924,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CNU 003 Murah,cnu-003,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -143,19 +139,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 124 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -175,14 +171,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 124 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 124 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CDI 124<br/>Warna : ABU KOMBINASI<br/>Bahan : FLEECE<br/>Ukuran : 2 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CNU 003 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CNU 003<br/>Warna : MERAH<br/>Bahan : CANVAS<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -190,8 +184,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 124 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 2 - 8, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/314-cdi-124.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 124,Rp 107.900,Rp 126.900,Rp 19.000,CDI 124,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 248 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-chr-248,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 ~ 10, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cnu-003.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CNU 003,Rp 140.900,Rp 162.900,Rp 22.000,CNU 003,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDI 001 Murah,cdi-001,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -207,19 +201,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 248 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -239,14 +233,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 248 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 248 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CHR 248<br/>Warna : UNGU<br/>Bahan : FLEECE<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDI 001 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan LOTTO.<br/>Kode : CDI 001<br/>Warna : MARUN<br/>Bahan : LOTTO<br/>Ukuran : 6 ~ 12<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -254,8 +246,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 248 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 - 10, Warna UNGU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/315-chr-248.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 248,Rp 93.900,Rp 109.900,Rp 16.000,CHR 248,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 138 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cse-138,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan LOTTO, Ukuran 6 ~ 12, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdi-001.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDI 001,Rp 113.900,Rp 130.900,Rp 17.000,CDI 001,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CRC 008 Murah,crc-008,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -271,19 +263,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 138 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -303,14 +295,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 138 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 138 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CSE 138<br/>Warna : BIRU NAVY<br/>Bahan : FLEECE<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = X-KODE : CQQ 138<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CRC 008 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan PARASIT.<br/>Kode : CRC 008<br/>Warna : MERAH<br/>Bahan : PARASIT<br/>Ukuran : 4 ~ 8<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -318,8 +308,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 138 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 - 10, Warna BIRU NAVY",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/316-cse-138.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 138,Rp 93.900,Rp 109.900,Rp 16.000,CSE 138,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNK 010 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cnk-010,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan PARASIT, Ukuran 4 ~ 8, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/crc-008.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CRC 008,Rp 100.900,Rp 116.900,Rp 16.000,CRC 008,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 130 Murah,cdg-130,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -335,19 +325,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNK 010 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -367,14 +357,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNK 010 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNK 010 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CNK 010<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 6 - 12<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 130 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan MICRO.<br/>Kode : CDG 130<br/>Warna : PINK<br/>Bahan : MICRO<br/>Ukuran : 6 ~ 12<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -382,8 +370,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNK 010 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 - 12, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/317-cnk-010.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNK 010,Rp 103.900,Rp 121.900,Rp 18.000,CNK 010,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 249 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-chr-249,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan MICRO, Ukuran 6 ~ 12, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdg-130.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 130,Rp 108.900,Rp 125.900,Rp 17.000,CDG 130,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 141 Murah,cdg-141,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -399,19 +387,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 249 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -431,14 +419,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 249 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 249 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CHR 249<br/>Warna : HIJAU<br/>Bahan : FLEECE<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 141 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan MICRO.<br/>Kode : CDG 141<br/>Warna : PINK KOMBINASI<br/>Bahan : MICRO<br/>Ukuran : 6 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -446,8 +432,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 249 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 - 10, Warna HIJAU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/318-chr-249.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CHR 249,Rp 89.400,Rp 104.900,Rp 15.500,CHR 249,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CMN 011 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cmn-011,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan MICRO, Ukuran 6 ~ 10, Warna PINK KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdg-141.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 141,Rp 110.900,Rp 127.900,Rp 17.000,CDG 141,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 127 Murah,cdg-127,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -463,19 +449,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CMN 011 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -495,14 +481,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CMN 011 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CMN 011 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan SPANDEX.<br/>Kode : CMN 011<br/>Warna : ORANGE<br/>Bahan : SPANDEX<br/>Ukuran : 6 - 12<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 127 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan PARASIT.<br/>Kode : CDG 127<br/>Warna : PINK<br/>Bahan : PARASIT<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -510,8 +494,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CMN 011 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan SPANDEX, Ukuran 6 - 12, Warna ORANGE",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/319-cmn-011.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CMN 011,Rp 74.900,Rp 87.900,Rp 13.000,CMN 011,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 134 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cnu-134,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan PARASIT, Ukuran 4 ~ 10, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdg-127.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 127,Rp 108.900,Rp 125.900,Rp 17.000,CDG 127,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 166 Murah,cse-166,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -527,19 +511,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 134 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -559,14 +543,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 134 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 134 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan DENIM.<br/>Kode : CNU 134<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 166 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CSE 166<br/>Warna : OLIP<br/>Bahan : CANVAS<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -574,8 +556,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 134 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan DENIM, Ukuran 4 - 10, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/320-cnu-134.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 134,Rp 121.400,Rp 142.900,Rp 21.500,CNU 134,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDF 122 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdf-122,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 ~ 10, Warna OLIP",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cse-166.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 166,Rp 116.900,Rp 134.900,Rp 18.000,CSE 166,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 163 Murah,cse-163,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -591,19 +573,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDF 122 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -623,14 +605,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDF 122 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDF 122 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan DENIM.<br/>Kode : CDF 122<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 163 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan MICRO.<br/>Kode : CSE 163<br/>Warna : TAN<br/>Bahan : MICRO<br/>Ukuran : 6 ~ 12<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -638,8 +618,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDF 122 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan DENIM, Ukuran 4 - 10, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/321-cdf-122.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDF 122,Rp 132.900,Rp 155.900,Rp 23.000,CDF 122,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 156 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cse-156,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan MICRO, Ukuran 6 ~ 12, Warna TAN",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cse-163.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 163,Rp 117.900,Rp 135.900,Rp 18.000,CSE 163,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 152 Murah,cse-152,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -655,19 +635,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 156 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -687,14 +667,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 156 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 156 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CSE 156<br/>Warna : MARUN<br/>Bahan : CANVAS<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 152 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CSE 152<br/>Warna : CREAM<br/>Bahan : CANVAS<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -702,8 +680,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 156 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 - 10, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/322-cse-156.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 156,Rp 109.900,Rp 128.900,Rp 19.000,CSE 156,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 127 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdg-127,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 ~ 10, Warna CREAM",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cse-152.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 152,Rp 116.900,Rp 134.900,Rp 18.000,CSE 152,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 131 Murah,cdg-131,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -719,19 +697,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 127 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -751,14 +729,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 127 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 127 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan PARASIT.<br/>Kode : CDG 127<br/>Warna : PINK<br/>Bahan : PARASIT<br/>Ukuran : 6 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 131 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan JIEM.<br/>Kode : CDG 131<br/>Warna : CREAM<br/>Bahan : JIEM<br/>Ukuran : 6 ~ 12<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -766,8 +742,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 127 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan PARASIT, Ukuran 6 - 10, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/323-cdg-127.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 127,Rp 102.900,Rp 120.900,Rp 18.000,CDG 127,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CRC 008 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-crc-008,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan JIEM, Ukuran 6 ~ 12, Warna CREAM",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdg-131.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDG 131,Rp 104.900,Rp 120.900,Rp 16.000,CDG 131,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CNK 011 Murah,cnk-011,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -783,19 +759,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CRC 008 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -815,14 +791,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CRC 008 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CRC 008 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan PARASIT.<br/>Kode : CRC 008<br/>Warna : MERAH<br/>Bahan : PARASIT<br/>Ukuran : 4 - 8<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CNK 011 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CNK 011<br/>Warna : OLIP<br/>Bahan : CANVAS<br/>Ukuran : 8 ~ 12<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -830,8 +804,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CRC 008 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan PARASIT, Ukuran 4 - 8, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/324-crc-008.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CRC 008,Rp 95.400,Rp 111.900,Rp 16.500,CRC 008,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 130 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdg-130,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 8 ~ 12, Warna OLIP",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cnk-011.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CNK 011,Rp 111.900,Rp 128.900,Rp 17.000,CNK 011,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 156 Murah,cse-156,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -847,19 +821,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 130 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -879,14 +853,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 130 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 130 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan MICRO.<br/>Kode : CDG 130<br/>Warna : PINK<br/>Bahan : MICRO<br/>Ukuran : 6 - 12<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 156 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CSE 156<br/>Warna : MARUN<br/>Bahan : CANVAS<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -894,8 +866,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 130 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan MICRO, Ukuran 6 - 12, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/325-cdg-130.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 130,Rp 102.900,Rp 120.900,Rp 18.000,CDG 130,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 163 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cse-163,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 ~ 10, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cse-156.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CSE 156,Rp 116.900,Rp 134.900,Rp 18.000,CSE 156,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CMN 011 Murah,cmn-011,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -911,19 +883,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 163 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -943,14 +915,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 163 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 163 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan MICRO.<br/>Kode : CSE 163<br/>Warna : TAN<br/>Bahan : MICRO<br/>Ukuran : 6 - 12<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CMN 011 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan SPANDEX.<br/>Kode : CMN 011<br/>Warna : ORANGE<br/>Bahan : SPANDEX<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -958,8 +928,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 163 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan MICRO, Ukuran 6 - 12, Warna TAN",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/326-cse-163.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 163,Rp 110.900,Rp 129.900,Rp 19.000,CSE 163,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 001 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdi-001,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan SPANDEX, Ukuran 4 ~ 10, Warna ORANGE",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cmn-011.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CMN 011,Rp 79.900,Rp 91.900,Rp 12.000,CMN 011,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CHR 250 Murah,chr-250,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -975,19 +945,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 001 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -1007,14 +977,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 001 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 001 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan LOTTO.<br/>Kode : CDI 001<br/>Warna : MARUN<br/>Bahan : LOTTO<br/>Ukuran : 6 - 12<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CHR 250 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CHR 250<br/>Warna : ABU ABU<br/>Bahan : FLEECE<br/>Ukuran : 4 ~ 10<br/>Berat : 650 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -1022,8 +990,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 001 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan LOTTO, Ukuran 6 - 12, Warna MARUN",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/327-cdi-001.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDI 001,Rp 103.900,Rp 121.900,Rp 18.000,CDI 001,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 131 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cdg-131,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 ~ 10, Warna ABU ABU",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/chr-250.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CHR 250,Rp 92.900,Rp 106.900,Rp 14.000,CHR 250,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CNK 010 Murah,cnk-010,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1039,19 +1007,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 131 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -1071,14 +1039,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 131 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 131 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan JIEM.<br/>Kode : CDG 131<br/>Warna : CREAM<br/>Bahan : JIEM<br/>Ukuran : 6 - 12<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CNK 010 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CNK 010<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -1086,8 +1052,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 131 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan JIEM, Ukuran 6 - 12, Warna CREAM",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/328-cdg-131.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CDG 131,Rp 98.400,Rp 115.900,Rp 17.500,CDG 131,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 152 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cse-152,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 ~ 10, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cnk-010.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CNK 010,Rp 110.900,Rp 127.900,Rp 17.000,CNK 010,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CHR 251 Murah,chr-251,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1103,19 +1069,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 152 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -1135,14 +1101,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 152 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 152 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CSE 152<br/>Warna : CREAM<br/>Bahan : CANVAS<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CHR 251 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CHR 251<br/>Warna : MERAH<br/>Bahan : FLEECE<br/>Ukuran : 4 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -1150,8 +1114,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 152 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 - 10, Warna CREAM",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/329-cse-152.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 152,Rp 109.900,Rp 128.900,Rp 19.000,CSE 152,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 003 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cnu-003,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 4 ~ 10, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/chr-251.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CHR 251,Rp 92.900,Rp 106.900,Rp 14.000,CHR 251,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDI 124 Murah,cdi-124,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1167,19 +1131,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 003 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -1199,14 +1163,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 003 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 003 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CNU 003<br/>Warna : MERAH<br/>Bahan : CANVAS<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDI 124 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan FLEECE.<br/>Kode : CDI 124<br/>Warna : ABU KOMBINASI<br/>Bahan : FLEECE<br/>Ukuran : 6 ~ 12<br/>Berat : 625 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -1214,8 +1176,8 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 003 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 - 10, Warna MERAH",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/330-cnu-003.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CNU 003,Rp 132.900,Rp 155.900,Rp 23.000,CNU 003,Baru
-Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 166 Murah,jaket-sweater-hoodies-kasual-anak-perempuan-cse-166,"
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan FLEECE, Ukuran 6 ~ 12, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdi-124.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDI 124,Rp 114.900,Rp 132.900,Rp 18.000,CDI 124,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CZM 014 Murah,czm-014,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -1231,19 +1193,19 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 166 Murah,jaket-sweat
         <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
         <span>
          <span>{{ page.price }}</span>        
-         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
-          <script type=""text/javascript"">
-          <!--
-          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
-          //-->
-          </script>
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
           </a>
          </label>
         </span>
         <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
-        {% include buy.html %}
+        {% include shareit.html %}
        </div><!--/product-information-->
       </div>
      </div><!--/product-details-->
@@ -1263,14 +1225,12 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 166 Murah,jaket-sweat
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 166 adalah salah satu produk merek Catenzo Junior. Produk fashion anak handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk anak Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan CANVAS.<br/>Kode : CSE 166<br/>Warna : OLIP<br/>Bahan : CANVAS<br/>Ukuran : 4 - 10<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CZM 014 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan RAJUT.<br/>Kode : CZM 014<br/>Warna : ABU KOMBINASI<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
-         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
          Gudang : WRH-1<br>
          Lokasi : Bandung</p>
-
-         {% include share.html %}
 
          {% include disqus.html %}
          
@@ -1278,4 +1238,190 @@ Jual Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 166 Murah,jaket-sweat
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-10-18,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan CANVAS, Ukuran 4 - 10, Warna OLIP",https://images.lipatan.com/katalog-catenzo-junior-2017-2/foto-produk-satuan/331-cse-166.jpg,/,/,/,/,/,Jaket / Sweater / Hoodies Kasual Anak Perempuan - CSE 166,Rp 109.900,Rp 128.900,Rp 19.000,CSE 166,Baru
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan RAJUT, Ukuran AS, Warna ABU KOMBINASI",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/czm-014.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CZM 014,Rp 69.900,Rp 80.900,Rp 11.000,CZM 014,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CDF 122 Murah,cdf-122,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CDF 122 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan DENIM.<br/>Kode : CDF 122<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : 4 ~ 8<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan DENIM, Ukuran 4 ~ 8, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cdf-122.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CDF 122,Rp 140.900,Rp 162.900,Rp 22.000,CDF 122,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CZM 015 Murah,czm-015,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CZM 015 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan RAJUT.<br/>Kode : CZM 015<br/>Warna : PINK<br/>Bahan : RAJUT<br/>Ukuran : AS<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan RAJUT, Ukuran AS, Warna PINK",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/czm-015.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CZM 015,Rp 76.900,Rp 88.900,Rp 12.000,CZM 015,Baru
+Jual Jaket / Sweater / Hoodies Casual Anak Perempuan - CNU 134 Murah,cnu-134,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Beli:<a href=""{{ site.url }}/beli"" target=""_blank"" title=""Beli Sekarang"">
+           <script type=""text/javascript"">
+   <!--
+   document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%0d%0a%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%0d%0a%09%42%65%6c%69%20%53%65%6b%61%72%61%6e%67%0d%0a%3c%2f%62%75%74%74%6f%6e%3e'));
+   //-->
+   </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include shareit.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>Jaket / Sweater / Hoodies Casual Anak Perempuan - CNU 134 adalah salah satu produk merek Catenzo Junior. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Jaket Sweater Anak Perempuan ini terbuat dari bahan DENIM.<br/>Kode : CNU 134<br/>Warna : BIRU<br/>Bahan : DENIM<br/>Ukuran : 6 ~ 10<br/>Berat : 600 gram<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: justify; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2018-02-27,html,jaket-sweater-anak-perempuan,catenzo-junior,jaket-sweater-anak-perempuan,catenzo-junior,"Jaket Sweater Anak Perempuan Bahan DENIM, Ukuran 6 ~ 10, Warna BIRU",https://images.lipatan.com/katalog-catenzo-junior-2018/foto-produk-satuan/cnu-134.jpg,-/-,-/-,-/-,-/-,-/-,Jaket / Sweater / Hoodies Casual Anak Perempuan - CNU 134,Rp 128.900,Rp 148.900,Rp 20.000,CNU 134,Baru
